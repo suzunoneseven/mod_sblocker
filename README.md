@@ -18,4 +18,4 @@ mod_rewriteとかと連携する用
 設定値を検証する用
 
 ## memo
-http://blog.asial.co.jp/715
+
